@@ -1,0 +1,18 @@
+Product_Name; Extra Gum
+
+Product_Type; Food, Drinks & Beverages
+
+Specific_Product_Type; Chewing Gum
+
+Ingredients; SORBITOL, GUM BASE, GLYCEROL, MANNITOL, NATURAL AND ARTIFICIAL FLAVORS, LESS THAN 2% OF: HYDROGENATED STARCH HYDROLYSATE, SOY LECITHIN, ASPARTAME, ACESULFAME K, COLORS (RED 40 LAKE, YELLOW 6), SUCRALOSE, BHT (TO MAINTAIN FRESHNESS), . PHENYKETONURICS: CONTAINS PHENYLALANINE.
+
+Nutritional_Value; Calories 5, Amount/Serving	%DV*, Total Fat 0g	0%, Sodium 0mg	0%, Total Carbohydrate 1g	1%, Sugars 0g	, Sugar Alcohol 1g, Protein 0g
+
+Energy; 5cal / 2.7 g
+
+Date_Inserted; 1/10/17 ## put the date you made this file 
+
+Distributed_Country; U.S.
+
+Family_Company; Wrigley
+
